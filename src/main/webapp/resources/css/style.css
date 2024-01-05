@@ -1,0 +1,353 @@
+body {
+    margin: 0;
+}
+
+.macbook-air {
+    position: relative;
+    width: 100%;
+    max-width: 1440px;
+    height: auto;
+    background-color: #ffffff;
+    overflow: visible;
+}
+
+    .macbook-air .hornyNapisIbeachInfSys {
+        position: absolute;
+        width: 205px;
+        height: 86px;
+        top: 30px;
+        left: 0;
+    }
+
+    .macbook-air .hornyText-iBeach {
+        position: absolute;
+        width: 205px;
+        height: 60px;
+        top: 0;
+        left: 0;
+        font-family: "David Libre-Bold", Helvetica;
+        font-weight: 700;
+        color: #abd6e4;
+        font-size: 50px;
+        text-align: center;
+        letter-spacing: 0;
+        line-height: normal;
+        white-space: nowrap;
+    }
+
+    .macbook-air .hornyText-InfSys {
+        position: absolute;
+        width: 169px;
+        height: 43px;
+        top: 50px;
+        left: 18px;
+        font-family: "David Libre-Bold", Helvetica;
+        font-weight: 700;
+        color: #abd6e4;
+        font-size: 15px;
+        text-align: center;
+        letter-spacing: 0;
+        line-height: normal;
+    }
+
+    .macbook-air .horne-menu {
+        position: absolute;
+        width: 1267px;
+        height: 129px;
+        top: 0;
+        left: 165px;
+        background-color: #3fa5c5;
+        border-radius: 20px;
+    }
+
+    .macbook-air .horny-uvod {
+        position: absolute;
+        width: 120px;
+        height: 48px;
+        top: 50px;
+        left: 215px;
+        background-color: #2e5d6c;
+        border-radius: 20px;
+    }
+
+    .macbook-air .horny-about {
+        left: 363px;
+        position: absolute;
+        width: 120px;
+        height: 48px;
+        top: 50px;
+        background-color: #2e5d6c;
+        border-radius: 20px;
+    }
+
+    .macbook-air .horne-news {
+        left: 511px;
+        position: absolute;
+        width: 120px;
+        height: 48px;
+        top: 50px;
+        background-color: #2e5d6c;
+        border-radius: 20px;
+    }
+
+    .macbook-air .horny-cennik {
+        left: 659px;
+        position: absolute;
+        width: 120px;
+        height: 48px;
+        top: 50px;
+        background-color: #2e5d6c;
+        border-radius: 20px;
+    }
+
+    .macbook-air .horne-rezervacie {
+        left: 807px;
+        position: absolute;
+        width: 120px;
+        height: 48px;
+        top: 50px;
+        background-color: #2e5d6c;
+        border-radius: 20px;
+    }
+
+
+    .macbook-air .horny-login {
+        position: absolute;
+        width: 120px;
+        height: 48px;
+        top: 50px;
+        left: 955px;
+        background-color: #2e5d6c;
+        border-radius: 20px;
+    }
+
+    .macbook-air .horny-kontakt {
+        left: 1103px;
+        position: absolute;
+        width: 120px;
+        height: 48px;
+        top: 50px;
+        background-color: #2e5d6c;
+        border-radius: 20px;
+    }
+
+
+    .macbook-air .text {
+        position: absolute;
+        width: 120px;
+        height: 42px;
+        top: 12px;
+        left: 0;
+        font-family: "David Libre-Bold", Helvetica;
+        font-weight: 700;
+        color: #ffffff;
+        font-size: 20px;
+        text-align: center;
+        letter-spacing: 0;
+        line-height: normal;
+    }
+
+
+.macbook-air .spodne-menu1 {
+    position: absolute;
+    width: 100%;
+    /*width: 100%;*/
+    height: 129px;
+    top: 716px;
+    left: 0;
+    background-color: #3fa5c5;
+    border-radius: 20px;
+}
+
+.macbook-air .spodne-menu2 {
+    position: absolute;
+    width: 598px;
+    height: 103px;
+    top: 6px;
+    left: 329px;
+}
+
+.macbook-air .spodnyText-iBeach1 {
+    position: absolute;
+    width: 598px;
+    height: 45px;
+    top: 58px;
+    left: 0;
+    font-family: "David Libre-Regular", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 15px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.macbook-air .spodnyText-iBeach2 {
+    font-family: "David Libre-Regular", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 15px;
+    letter-spacing: 0;
+}
+
+.macbook-air .span {
+    font-family: "David Libre-Bold", Helvetica;
+    font-weight: 700;
+}
+
+.macbook-air .element {
+    position: absolute;
+    width: 94px;
+    height: 76px;
+    top: 34px;
+    left: 966px;
+    object-fit: cover;
+}
+
+
+.macbook-air .spodni-partneri1 {
+    position: absolute;
+    height: 19px;
+    top: 2px;
+    left: 1089px;
+    font-family: "David Libre-Bold", Helvetica;
+    font-weight: 700;
+    color: #ffffff;
+    font-size: 15px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.macbook-air .spodni-partneri2 {
+    font-family: "David Libre-Bold", Helvetica;
+    font-weight: 700;
+    color: #ffffff;
+    font-size: 15px;
+    letter-spacing: 0;
+}
+
+.macbook-air .spodni-partneri3 {
+    font-size: 20px;
+}
+
+.macbook-air .spodny-uvod {
+    position: absolute;
+    width: 72px;
+    height: 17px;
+    top: 17px;
+    left: 68px;
+    font-family: "David Libre-Bold", Helvetica;
+    font-weight: 700;
+    color: #ffffff;
+    font-size: 15px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+}
+
+.macbook-air .spodny-about {
+    position: absolute;
+    width: 72px;
+    height: 17px;
+    top: 50px;
+    left: 68px;
+    font-family: "David Libre-Bold", Helvetica;
+    font-weight: 700;
+    color: #ffffff;
+    font-size: 15px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+}
+
+.macbook-air .spodne-rezervacie {
+    position: absolute;
+    width: 72px;
+    height: 17px;
+    top: 18px;
+    left: 231px;
+    font-family: "David Libre-Bold", Helvetica;
+    font-weight: 700;
+    color: #ffffff;
+    font-size: 15px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+}
+
+.macbook-air .spodny-login {
+    position: absolute;
+    width: 72px;
+    height: 17px;
+    top: 50px;
+    left: 231px;
+    font-family: "David Libre-Bold", Helvetica;
+    font-weight: 700;
+    color: #ffffff;
+    font-size: 15px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+}
+
+.macbook-air .spodny-kontakt {
+    position: absolute;
+    width: 72px;
+    height: 17px;
+    top: 82px;
+    left: 230px;
+    font-family: "David Libre-Bold", Helvetica;
+    font-weight: 700;
+    color: #ffffff;
+    font-size: 15px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+}
+
+.macbook-air .spodny-cennik {
+    position: absolute;
+    width: 72px;
+    height: 17px;
+    top: 82px;
+    left: 68px;
+    font-family: "David Libre-Bold", Helvetica;
+    font-weight: 700;
+    color: #ffffff;
+    font-size: 15px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+}
+
+.macbook-air .container{
+    margin-top: 0;
+    margin-bottom: 20px;
+    margin-left: 180px;
+    padding: 20px;
+    padding-top: 130px;
+
+}
+.about{
+    font-family: "David Libre-Bold", Helvetica;
+
+}
+.table{
+    background-color: #2e5d6c;
+    font-family: "David Libre-Bold", Helvetica;
+}
+
+.logo {
+    position: absolute;
+    top: 10px;
+    left: 17px;
+    width:130px;
+    height: 130px;
+}
